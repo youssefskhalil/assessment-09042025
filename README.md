@@ -27,7 +27,7 @@ The Scope of testing for this system will cover the functionalities and performa
 11. Verify that a proper error message will show in case of entering the wrong ID while fetching a widget 
 12. Verify that a proper error message will show in case the API call for fetching a specific widgets does not include an authorization token
 13. Verify that the API call for updating a specific widget will only work in case there's an authorization token
-14. Verify that the API call for updating a specific budget will only work in case the ID is valid
+14. Verify that the API call for updating a specific widget will only work in case the ID is valid
 15. Verify that a proper error message will show in case the API call for updating a specific widget does not include a valid ID
 
 #### UI / Frontend Level
